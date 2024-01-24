@@ -1,0 +1,6 @@
+.dashed-line{
+    border: 1px dashed rgba(19, 19, 24, 0.20);
+}
+.product-border{
+    border: 1px solid rgba(19, 19, 24, 0.10);;
+}
